@@ -13,7 +13,7 @@
 
 832301309 Hu Pengxiang
 
-框架：HTML + Bootstrap + JavaScript
+前端框架：HTML + Bootstrap + JavaScript
 
 后端接口：Flask + SQLite
 
